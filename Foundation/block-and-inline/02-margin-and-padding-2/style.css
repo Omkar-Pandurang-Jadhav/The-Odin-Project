@@ -1,0 +1,35 @@
+*{
+    background-color: grey;
+    margin: 30px auto;
+}
+.card{
+    width: 600px;
+    background-color: white;
+    margin :16px auto;
+    padding:8px
+}
+
+.title,.content,.button-container{
+    background-color: lightskyblue;
+    padding: 12px;
+    font-size: 16px;
+    margin:12px
+}
+
+.title{
+    font-weight: bold;
+}
+
+.button-container{
+    text-align: center;
+    padding:8px;
+}
+
+.content{
+    padding: 16px 8px;
+}
+button{
+    display: block;
+    padding: 8px 24px;
+    margin: 0px auto;
+}
